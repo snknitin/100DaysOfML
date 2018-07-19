@@ -26,6 +26,8 @@
 ## Day 1 : July 18 , 2018
 
 **Today's Progress** :
+* Looked at Uber's Michealangelo
+* Read through the RL^2 paper for faster RL agorithm training using RNN
 
 
 **Thoughts** : 
