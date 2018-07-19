@@ -32,18 +32,18 @@
 
 **Thoughts** : 
 * Michealangelo is an internal ML-as-a-service platform that democratizes machine learning and makes scaling AI to meet the needs of business as easy as requesting a ride.The focus shifted to developer productivity–how to speed up the path from idea to first production model and the fast iterations that follow. 
- * Predicting meal estimated time of delivery (ETD) is not simple. When an UberEATS customer places an order it is sent to the restaurant for processing. The restaurant then needs to acknowledge the order and prepare the meal which will take time depending on the complexity of the order and how busy the restaurant is. When the meal is close to being ready, an Uber delivery-partner is dispatched to pick up the meal. Then, the delivery-partner needs to get to the restaurant, find parking, walk inside to get the food, then walk back to the car, drive to the customer’s location (which depends on route, traffic, and other factors), find parking, and walk to the customer’s door to complete the delivery. 
- * The goal is to predict the total duration of this complex multi-stage process, as well as recalculate these time-to-delivery predictions at every step of the process.
- * They use gradient boosted decision tree regression models to predict this end-to-end delivery time.
- * Features for the model include information from the request (e.g., time of day, delivery location), historical features (e.g. average meal prep time for the last seven days), and near-realtime calculated features (e.g., average meal prep time for the last one hour).
- * The primary open sourced components used are HDFS, Spark, Samza, Cassandra, MLLib, XGBoost, and TensorFlow.
- *  To provide scalable, reliable, reproducible, easy-to-use, and automated tools to address the following six-step workflow:
-  * Manage data
-  * Train models
-  * Evaluate models
-  * Deploy models
-  * Make predictions
-  * Monitor predictions
+   * Predicting meal estimated time of delivery (ETD) is not simple. When an UberEATS customer places an order it is sent to the restaurant for processing. The restaurant then needs to acknowledge the order and prepare the meal which will take time depending on the complexity of the order and how busy the restaurant is. When the meal is close to being ready, an Uber delivery-partner is dispatched to pick up the meal. Then, the delivery-partner needs to get to the restaurant, find parking, walk inside to get the food, then walk back to the car, drive to the customer’s location (which depends on route, traffic, and other factors), find parking, and walk to the customer’s door to complete the delivery. 
+   * The goal is to predict the total duration of this complex multi-stage process, as well as recalculate these time-to-delivery predictions at every step of the process.
+   * They use gradient boosted decision tree regression models to predict this end-to-end delivery time.
+   * Features for the model include information from the request (e.g., time of day, delivery location), historical features (e.g. average meal prep time for the last seven days), and near-realtime calculated features (e.g., average meal prep time for the last one hour).
+   * The primary open sourced components used are HDFS, Spark, Samza, Cassandra, MLLib, XGBoost, and TensorFlow.
+   *  To provide scalable, reliable, reproducible, easy-to-use, and automated tools to address the following six-step workflow:
+      * Manage data
+      * Train models
+      * Evaluate models
+      * Deploy models
+      * Make predictions
+      * Monitor predictions
 
 
 
