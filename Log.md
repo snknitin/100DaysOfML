@@ -26,8 +26,8 @@
 ## Day 1 : July 18 , 2018
 
 **Today's Progress** :
-* Looked at Uber's Michealangelo. It is designed to cover the end-to-end ML workflow: manage data, train, evaluate, and deploy models, make predictions, and monitor predictions. The system also supports traditional ML models, time series forecasting, and deep learning. UberEATS has several models running on Michelangelo, covering meal delivery time predictions, search rankings, search autocomplete, and restaurant rankings. The delivery time models predict how much time a meal will take to prepare and deliver before the order is issued and then again at each stage of the delivery process.
-* Read through the RL^2 paper for faster RL agorithm training using RNN
+* Looked at **Uber's Michealangelo**. It is designed to cover the end-to-end ML workflow: manage data, train, evaluate, and deploy models, make predictions, and monitor predictions. The system also supports traditional ML models, time series forecasting, and deep learning. UberEATS has several models running on Michelangelo, covering meal delivery time predictions, search rankings, search autocomplete, and restaurant rankings. The delivery time models predict how much time a meal will take to prepare and deliver before the order is issued and then again at each stage of the delivery process.
+* Read through the **RL^2 paper for faster RL agorithm training using RNN**
 
 
 **Thoughts** : 
@@ -38,7 +38,11 @@
    * Features for the model include information from the request (e.g., time of day, delivery location), historical features (e.g. average meal prep time for the last seven days), and near-realtime calculated features (e.g., average meal prep time for the last one hour).
    * The primary open sourced components used are HDFS, Spark, Samza, Cassandra, MLLib, XGBoost, and TensorFlow.
    *  To provide scalable, reliable, reproducible, easy-to-use, and automated tools to address the following six-step workflow:
-      * Manage data
+      * Manage data - building and managing data pipelines is typically one of the most costly pieces of a complete machine learning solution.
+          * A platform should provide standard tools for building data pipelines to generate feature and label data sets for training (and re-training) and feature-only data sets for predicting
+          * need to be scalable and performant,  incorporate integrated monitoring for data flow and data quality, and support both online and offline training and predicting.
+          * Ideally, they should also generate the features in a way that is shareable across teams to reduce duplicate work and increase data quality.
+          * The offline pipelines are used to feed batch model training and batch prediction jobs and the online pipelines feed online, low latency predictions 
       * Train models
       * Evaluate models
       * Deploy models
