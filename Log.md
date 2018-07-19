@@ -20,6 +20,38 @@
  * Perturb the input around the neighborhood to see how the predictions change
  * Weight these perturbed data points by their proximity to the original example
 
-**Link of Work:** 
+**Link to Work:** 
 
 
+## Day 1 : July 18 , 2018
+
+**Today's Progress** :
+
+
+**Thoughts** : 
+
+**Link to Work:** 
+
+## Day 2 : July 19 , 2018
+
+**Today's Progress** :
+
+**Thoughts** : 
+
+**Link to Work:** 
+
+## Day 3 : July 20 , 2018
+
+**Today's Progress** :
+
+**Thoughts** : 
+
+**Link to Work:** 
+
+## Day 0 : July 18 , 2018
+
+**Today's Progress** :
+
+**Thoughts** : 
+
+**Link to Work:** 
