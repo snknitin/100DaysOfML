@@ -26,11 +26,12 @@
 ## Day 1 : July 18 , 2018
 
 **Today's Progress** :
-* Looked at Uber's Michealangelo
+* Looked at Uber's Michealangelo. It is designed to cover the end-to-end ML workflow: manage data, train, evaluate, and deploy models, make predictions, and monitor predictions. The system also supports traditional ML models, time series forecasting, and deep learning.
 * Read through the RL^2 paper for faster RL agorithm training using RNN
 
 
 **Thoughts** : 
+* Michealangelo is an internal ML-as-a-service platform that democratizes machine learning and makes scaling AI to meet the needs of business as easy as requesting a ride.The focus shifted to developer productivity–how to speed up the path from idea to first production model and the fast iterations that follow.
 
 **Link to Work:** 
 
