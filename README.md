@@ -3,4 +3,4 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 ## Contents
 
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](Log.md)
