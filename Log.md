@@ -27,7 +27,7 @@
 
 **Today's Progress** :
 * Looked at **Uber's Michealangelo**. It is designed to cover the end-to-end ML workflow: manage data, train, evaluate, and deploy models, make predictions, and monitor predictions. The system also supports traditional ML models, time series forecasting, and deep learning. UberEATS has several models running on Michelangelo, covering meal delivery time predictions, search rankings, search autocomplete, and restaurant rankings. The delivery time models predict how much time a meal will take to prepare and deliver before the order is issued and then again at each stage of the delivery process.
-* Read through the **RL^2 paper for faster RL agorithm training using RNN**
+
 
 
 **Thoughts** : 
@@ -49,15 +49,26 @@
       * Make predictions
       * Monitor predictions
 
+to be continued ....
 
 
 **Link to Work:** 
 
 ## Day 2 : July 19 , 2018
 
-**Today's Progress** :
+**Today's Progress** : * Read through the **RL^2 paper for faster RL agorithm training using RNN** to ask Pieter Abbeel some doubts during our meeting
 
 **Thoughts** : 
+
+1) In visual experiments, the algorithm/agent interacts with maze for multiple episodes during which the maze and target position are held fixed. Is our target going to be finding the bug in the verilog code? If so, we don't have a fixed location(target) ?
+
+2) First we explore and identify target and then act optimally. How do we make it explore efficiently with some shaped rewards.? Do we add some exploration bonus for new conditions that are infrequently explored.?would that undermine this one shot learning process if our problem statement is more likely to have localized issues in the nested if else for several problems. Is there a way to direct the exploration in a hierarchical setting that is not fixed in structure? Perhaps using rnn to identify test cases or words in the conditions.
+
+3) Would the exploitation strategy be thrown off by masking bugs that undermine other bugs? Should we treat our environment to be stateless without dependencies of the nested loops. Is multi arm bandit  a correct analogy for us?
+
+4) Since we have a hierarchy in the given nested if else problem but it could be of a dynamic nature in length, so should we treat this as a seq2seq where we encode and decode the conditional statement into a tuple of state, action, observation, reward?
+
+5) Which rl algorithm would suit our need to make use of the prior information, for the outer loop?
 
 **Link to Work:** 
 
@@ -66,6 +77,8 @@
 **Today's Progress** :
 
 **Thoughts** : 
+
+
 
 **Link to Work:** 
 
