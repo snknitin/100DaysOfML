@@ -74,15 +74,50 @@ to be continued ....
 
 ## Day 3 : July 20 , 2018
 
-**Today's Progress** :
+**Today's Progress** : Deep RL bootcamp lectures 1 and 2
 
-**Thoughts** : 
-
+**Thoughts** : Introductory MDP stuff and Sample approximation with function fitting
 
 
 **Link to Work:** 
 
-## Day 0 : July 18 , 2018
+## Day 0 : July 21 , 2018
+
+**Today's Progress** :
+
+**Thoughts** : 
+
+**Link to Work:** 
+
+
+## Day 0 : July 21 , 2018
+
+**Today's Progress** :
+
+**Thoughts** : 
+
+**Link to Work:** 
+
+
+## Day 0 : July 21 , 2018
+
+**Today's Progress** :
+
+**Thoughts** : 
+
+**Link to Work:** 
+
+
+## Day 0 : July 21 , 2018
+
+**Today's Progress** :
+
+**Thoughts** : 
+
+**Link to Work:** 
+
+
+## Day 0 : July 21 , 2018
 
 **Today's Progress** :
 
