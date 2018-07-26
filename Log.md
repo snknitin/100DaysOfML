@@ -81,7 +81,7 @@ to be continued ....
 
 **Link to Work:** 
 
-## Day 0 : July 21 , 2018
+## Day 4 : July 21 , 2018
 
 **Today's Progress** :
 
@@ -90,7 +90,7 @@ to be continued ....
 **Link to Work:** 
 
 
-## Day 0 : July 21 , 2018
+## Day 5 : July 22 , 2018
 
 **Today's Progress** :
 
@@ -99,7 +99,7 @@ to be continued ....
 **Link to Work:** 
 
 
-## Day 0 : July 21 , 2018
+## Day 6 : July 23 , 2018
 
 **Today's Progress** :
 
@@ -108,7 +108,7 @@ to be continued ....
 **Link to Work:** 
 
 
-## Day 0 : July 21 , 2018
+## Day 7 : July 24 , 2018
 
 **Today's Progress** :
 
@@ -117,10 +117,22 @@ to be continued ....
 **Link to Work:** 
 
 
-## Day 0 : July 21 , 2018
+## Day 8 : July 25 , 2018
 
-**Today's Progress** :
+**Today's Progress** : Features selected on the basis of their scores in various statistical tests for their correlation with the outcome variable. 
+* Pearson Correlation - It is used as a measure for quantifying linear dependence between two continuous variables X and Y. Its value varies from -1 to +1. 
+* LDA - Linear Discriminant Analysis -  used to find a linear combination of features that characterizes or separates two or more classes (or levels) of a categorical variable.
+* ANOVA - Analysis of Variance. similar to LDA except for the fact that it is operated using one or more categorical independent features and one continuous dependent feature. It provides a statistical test of whether the means of several groups are equal or not.
+* Chi-square : statistical test applied to the groups of categorical features to evaluate the likelihood of correlation or association between them using their frequency distribution.
 
-**Thoughts** : 
+**Thoughts** : Top reasons to use feature selection are:
+
+It enables the machine learning algorithm to train faster.  
+It reduces the complexity of a model and makes it easier to interpret.  
+It improves the accuracy of a model if the right subset is chosen.  
+It reduces overfitting.  
+
+
 
 **Link to Work:** 
+https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2
