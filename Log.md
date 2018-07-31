@@ -114,7 +114,7 @@ to be continued ....
 
 **Thoughts** : 
 
-**Link to Work:** 
+**Link to Work:** http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/language/IPythonMagic.ipynb
 
 
 ## Day 8 : July 25 , 2018
