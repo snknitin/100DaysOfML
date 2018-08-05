@@ -162,3 +162,21 @@ https://machinelearningmastery.com/feature-selection-machine-learning-python/
 **Link to Work:**  
 
 https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
+
+
+## Day 11 : August 3 , 2018
+
+**Today's Progress** : Used keras to create a DNN architecture to predict classes in loan data from kaggle
+
+**Thoughts** :
+
+* Tweaked different parameters and hidden layer sizes
+* Looked at misclassification counts and plotted a confusion matrix
+
+       sns.heatmap(cf_mat_p, annot=True, linewidths=.5, cmap=cm.summer,xticklabels=['bad','safe'], yticklabels=['bad','safe'])
+
+
+
+**Link to Work:**  
+
+https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
