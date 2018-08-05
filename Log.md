@@ -138,3 +138,27 @@ It reduces overfitting.
 
 https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2
 https://machinelearningmastery.com/feature-selection-machine-learning-python/
+
+
+## Day 9-10 : August 1-2 , 2018
+
+**Today's Progress** : Using Seaborn to visualize and plot graphs for feature engineering
+* distplot(df["feature_name"], label="") To get distribution of data values
+* countplot(df["feature_name"], label="") To get count of categorical values
+* barplot(x= "feature_name", y= "Class", data=df) To get bar plot of featuere values against true classification label
+
+**Thoughts** :
+
+* Look at featuere values and the number of unique values
+* Divide the value counts by the training data size and see what percentage of the data the top five values capture
+* If majority(more than 85%) of that feature value is 0, then it is probably useless
+* If the feature has way too many unique categorical value, it would add a lot of dimensionality and is probably not requrired
+* If a feature has the same value through out, then it gives no additional information
+* If it is skewed, look at the distribution in a specific range and decide whether you need it
+* Map the categorical values into one hot encodings
+
+
+
+**Link to Work:**  
+
+https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
