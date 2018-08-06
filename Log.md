@@ -83,7 +83,7 @@ to be continued ....
 
 ## Day 4 : July 21 , 2018
 
-**Today's Progress** :
+**Today's Progress** : Deep RL bootcamp lectures 3 and 4
 
 **Thoughts** : 
 
