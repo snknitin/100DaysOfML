@@ -92,7 +92,7 @@ to be continued ....
 
 ## Day 5 : July 22 , 2018
 
-**Today's Progress** :
+**Today's Progress** : Deep RL bootcamp lectures 5 and 6
 
 **Thoughts** : 
 
