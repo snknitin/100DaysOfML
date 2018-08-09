@@ -180,3 +180,11 @@ https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
 **Link to Work:**  
 
 https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
+
+
+## Day 11 : August 9 , 2018
+
+**Today's Progress** : Read the rules of ML 
+**Thoughts** :
+**Link to Work:**  
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
