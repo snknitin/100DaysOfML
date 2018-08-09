@@ -182,9 +182,35 @@ https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
 https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
 
 
-## Day 11 : August 9 , 2018
+## Day 11 : August 8 , 2018
 
 **Today's Progress** : Read the rules of ML 
 **Thoughts** :
 **Link to Work:**  
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
+
+## Day 11 : August 9 , 2018
+
+**Today's Progress** : Feature Scaling with scikit-learn 
+**Thoughts** :
+
+    num_cols = df.columns[df.dtypes.apply(lambda c: np.issubdtype(c, np.number))]
+    scaler = StandardScaler()
+    df[num_cols] = scaler.fit_transform(df[num_cols])
+    
+The LabelBinarizer is the right choice for encoding string columns - it will first translate strings to integers, and then binarizes those integers to bit vectors. It does it all in one go. No need to divide this "workflow" between two transformer steps (ie. LabelEncoder plus OneHotEncoder)
+
+Check out the sklearn_pandas.DataFrameMapper meta-transformer. Use it as the first step in your pipeline to perform column-wise data engineering operations:
+
+    mapper = DataFrameMapper(
+      [(continuous_col, StandardScaler()) for continuous_col in continuous_cols] +
+      [(categorical_col, LabelBinarizer()) for categorical_col in categorical_cols]
+    )
+    pipeline = Pipeline(
+      ("mapper", mapper)
+    )
+    pipeline.fit_transform(df, df["y"])
+
+**Link to Work:**  
+http://benalexkeen.com/feature-scaling-with-scikit-learn/
