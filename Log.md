@@ -199,6 +199,11 @@ http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
     scaler = StandardScaler()
     df[num_cols] = scaler.fit_transform(df[num_cols])
     
+ Avoid scaling boolean features
+    
+    bool_cols = [col for col in df if 
+               df[col].dropna().value_counts().index.isin([0,1]).all()]
+    
 The LabelBinarizer is the right choice for encoding string columns - it will first translate strings to integers, and then binarizes those integers to bit vectors. It does it all in one go. No need to divide this "workflow" between two transformer steps (ie. LabelEncoder plus OneHotEncoder)
 
 Check out the sklearn_pandas.DataFrameMapper meta-transformer. Use it as the first step in your pipeline to perform column-wise data engineering operations:
