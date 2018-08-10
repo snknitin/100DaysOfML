@@ -219,3 +219,17 @@ Check out the sklearn_pandas.DataFrameMapper meta-transformer. Use it as the fir
 
 **Link to Work:**  
 http://benalexkeen.com/feature-scaling-with-scikit-learn/
+
+
+
+
+
+## Day 12 : August 10 , 2018
+
+**Today's Progress** : More Feature Engineering
+**Thoughts** :
+
+**Link to Work:**  
+
+https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b
+https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63
