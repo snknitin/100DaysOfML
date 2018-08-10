@@ -238,3 +238,16 @@ http://benalexkeen.com/feature-scaling-with-scikit-learn/
 
 https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b
 https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63
+
+
+
+## Day 12 : August 10 , 2018
+
+**Today's Progress** : Dealing with categorical variables
+**Thoughts** :
+
+
+**Link to Work:**  
+
+http://pbpython.com/categorical-encoding.html
+https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512
