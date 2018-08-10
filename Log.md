@@ -229,6 +229,11 @@ http://benalexkeen.com/feature-scaling-with-scikit-learn/
 **Today's Progress** : More Feature Engineering
 **Thoughts** :
 
+    pandas.get_dummies()
+    sklearn.preprocessing.LabelEncoder()
+    sklearn.preprocessing.LabelBinarizer
+    sklearn.preprocessing.MultiLabelBinarizer
+
 **Link to Work:**  
 
 https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b
