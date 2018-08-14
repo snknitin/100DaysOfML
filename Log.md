@@ -251,3 +251,15 @@ https://towardsdatascience.com/understanding-feature-engineering-part-2-categori
 
 http://pbpython.com/categorical-encoding.html
 https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512
+
+
+## Day 12 : August 13 , 2018
+
+**Today's Progress** : Call backs to print metrics on epoch end in keras
+**Thoughts** : Sometimes there is a need to see how the loss and accuracy proceed through the epochs. it would be great to print them out to console to see them
+
+
+
+
+**Link to Work:**  
+https://medium.com/@thongonary/how-to-compute-f1-score-for-each-epoch-in-keras-a1acd17715a2
