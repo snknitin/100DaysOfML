@@ -164,7 +164,7 @@ https://machinelearningmastery.com/feature-selection-machine-learning-python/
 https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
 
 
-## Day 11 : August 3 , 2018
+## Day 11-14 : August 3-6 , 2018
 
 **Today's Progress** : Used keras to create a DNN architecture to predict classes in loan data from kaggle
 
@@ -182,7 +182,7 @@ https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
 https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
 
 
-## Day 11 : August 8 , 2018
+## Day 15 : August 8 , 2018
 
 **Today's Progress** : Read the rules of ML 
 **Thoughts** :
@@ -190,7 +190,7 @@ https://github.com/snknitin/Tf-skeleton/blob/master/MultiClassification.ipynb
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 
 
-## Day 11 : August 9 , 2018
+## Day 16 : August 9 , 2018
 
 **Today's Progress** : Feature Scaling with scikit-learn 
 **Thoughts** :
@@ -224,7 +224,7 @@ http://benalexkeen.com/feature-scaling-with-scikit-learn/
 
 
 
-## Day 12 : August 10 , 2018
+## Day 17 : August 10 , 2018
 
 **Today's Progress** : More Feature Engineering
 **Thoughts** :
@@ -241,7 +241,7 @@ https://towardsdatascience.com/understanding-feature-engineering-part-2-categori
 
 
 
-## Day 12 : August 10 , 2018
+## Day 18 : August 11 , 2018
 
 **Today's Progress** : Dealing with categorical variables
 **Thoughts** :
@@ -253,7 +253,7 @@ http://pbpython.com/categorical-encoding.html
 https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512
 
 
-## Day 12 : August 13 , 2018
+## Day 19 : August 13 , 2018
 
 **Today's Progress** : Call backs to print metrics on epoch end in keras
 **Thoughts** : Sometimes there is a need to see how the loss and accuracy proceed through the epochs. it would be great to print them out to console to see them
@@ -305,3 +305,15 @@ Or even try :
 **Link to Work:**  
 * https://medium.com/@thongonary/how-to-compute-f1-score-for-each-epoch-in-keras-a1acd17715a2  
 * https://faroit.github.io/keras-docs/1.2.0/callbacks/
+
+
+
+## Day 20 : August 14 , 2018
+
+**Today's Progress** : Tensorflow Early stopping callbacks and prin after epoch
+**Thoughts** :
+
+
+**Link to Work:**  
+
+http://mckinziebrandon.me/TensorflowNotebooks/2016/11/20/early-stopping.html
