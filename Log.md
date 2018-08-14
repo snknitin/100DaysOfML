@@ -285,7 +285,22 @@ Use it like this
 
     model.fit(training_data, training_target, validation_data=(validation_data, validation_target), nb_epoch=10, batch_size=64, callbacks=[metrics])
 
+Or even try :
 
+    checkpoints =ModelCheckpoint(filepath, monitor='val_acc', verbose=1,
+                                    save_best_only=False, save_weights_only=False,
+                                    mode='auto', period=2)
+
+    ###############Fit Model #############################
+
+    model.fit_generator(
+    train_generator,
+    steps_per_epoch =total_samples//batch_size,
+    epochs = epochs,
+    validation_data=validation_generator,
+    validation_steps=total_validation//batch_size,
+    callbacks = [checkpoints],
+    shuffle= True)
 
 **Link to Work:**  
 * https://medium.com/@thongonary/how-to-compute-f1-score-for-each-epoch-in-keras-a1acd17715a2  
