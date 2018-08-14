@@ -262,4 +262,5 @@ https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-py
 
 
 **Link to Work:**  
-https://medium.com/@thongonary/how-to-compute-f1-score-for-each-epoch-in-keras-a1acd17715a2
+* https://medium.com/@thongonary/how-to-compute-f1-score-for-each-epoch-in-keras-a1acd17715a2  
+* https://faroit.github.io/keras-docs/1.2.0/callbacks/
