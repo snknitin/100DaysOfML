@@ -281,6 +281,11 @@ https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-py
 
     metrics = Metrics()
 
+Use it like this
+
+    model.fit(training_data, training_target, validation_data=(validation_data, validation_target), nb_epoch=10, batch_size=64, callbacks=[metrics])
+
+
 
 **Link to Work:**  
 * https://medium.com/@thongonary/how-to-compute-f1-score-for-each-epoch-in-keras-a1acd17715a2  
