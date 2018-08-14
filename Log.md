@@ -310,9 +310,8 @@ Or even try :
 
 ## Day 20 : August 14 , 2018
 
-**Today's Progress** : Tensorflow Early stopping callbacks and prin after epoch
+**Today's Progress** : Tensorflow Early stopping callbacks and prin after epoch  
 **Thoughts** :
-
 
 **Link to Work:**  
 
