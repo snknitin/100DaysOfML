@@ -324,8 +324,21 @@ http://mckinziebrandon.me/TensorflowNotebooks/2016/11/20/early-stopping.html
 
 ## Day 21 : August 15 , 2018
 
-**Today's Progress** : Deep Replay  
-**Thoughts** : DeepReplay is a nice Python package that allows you to replay the process of training your model and create nice visualizations out of it. The best thing is that it can be very easily integrated with Keras since we can just use the callback for this.
+**Today's Progress** : DeepReplay is a nice Python package that allows you to replay the process of training your model and create nice visualizations out of it. The best thing is that it can be very easily integrated with Keras since we can just use the callback for this.
+
+**Thoughts** : 
+
+Deep Learning is all about hyper-parameters! The actual role of the non-linearity is to twist and turn the feature space so much so that the boundary turns out to be… LINEAR!
+
+The process is simple enough, consisting of five steps:
+
+* It all starts with creating an instance of a callback!
+* Then, business as usual: build and train your model.
+* Next, load the collected data into Replay.
+* Finally, create a figure and attach the visualizations to it.
+* Plot and/or animate it!
+
+
 
 **Link to Work:**  
 * https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c
