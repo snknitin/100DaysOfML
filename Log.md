@@ -366,17 +366,23 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 23 : August 17 , 2018
 
+
+**Today's Progress** :  AutoML and AutoKeras
+**Thoughts** :  
+**Link to Work:**   
+* https://www.automl.org
+* https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
+
+
+## Day 24 : August 18 , 2018
+
 **Today's Progress** :  Using fastText and Comet.ml to classify relationships in Knowledge Graphs
 **Thoughts** :  
 **Link to Work:**   
 * https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67
 
 
-## Day 24 : August 18 , 2018
 
-**Today's Progress** :  
-**Thoughts** :  
-**Link to Work:**   
 
 
 ## Day 25 : August 19 , 2018
