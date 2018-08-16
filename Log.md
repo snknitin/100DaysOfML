@@ -333,7 +333,17 @@ Deep Learning is all about hyper-parameters! The actual role of the non-linearit
 The process is simple enough, consisting of five steps:
 
 * It all starts with creating an instance of a callback!
+
+      from deepreplay.callbacks import ReplayData
+      from deepreplay.datasets.parabola import load_data
+
+      X, y = load_data()
+
+      replaydata = ReplayData(X, y, filename='hyperparms_in_action.h5', group_name='part1')
+ you can use the same file several times over, but never the same group
+
 * Then, business as usual: build and train your model.
+
 * Next, load the collected data into Replay.
 * Finally, create a figure and attach the visualizations to it.
 * Plot and/or animate it!
