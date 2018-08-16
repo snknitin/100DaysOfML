@@ -452,9 +452,10 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 27 : August 21 , 2018
 
-**Today's Progress** :  
+**Today's Progress** :  Altair : Declarative statistical visualization library for Python   
 **Thoughts** :  
 **Link to Work:**   
+* https://github.com/altair-viz/altair
 
 
 ## Day 28 : August 22 , 2018
