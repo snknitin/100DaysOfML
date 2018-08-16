@@ -328,5 +328,6 @@ http://mckinziebrandon.me/TensorflowNotebooks/2016/11/20/early-stopping.html
 **Thoughts** : DeepReplay is a nice Python package that allows you to replay the process of training your model and create nice visualizations out of it. The best thing is that it can be very easily integrated with Keras since we can just use the callback for this.
 
 **Link to Work:**  
+* https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c
 * https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631
 * https://github.com/dvgodoy/deepreplay
