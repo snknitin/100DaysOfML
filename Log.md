@@ -316,3 +316,15 @@ Or even try :
 **Link to Work:**  
 
 http://mckinziebrandon.me/TensorflowNotebooks/2016/11/20/early-stopping.html
+
+
+
+
+## Day 20 : August 14 , 2018
+
+**Today's Progress** : Tensorflow Early stopping callbacks and prin after epoch  
+**Thoughts** :
+
+**Link to Work:**  
+https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631
+https://github.com/dvgodoy/deepreplay
