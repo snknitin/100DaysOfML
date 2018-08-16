@@ -310,7 +310,7 @@ Or even try :
 
 ## Day 20 : August 14 , 2018
 
-**Today's Progress** : Tensorflow Early stopping callbacks and prin after epoch  
+**Today's Progress** : Tensorflow Early stopping callbacks and print after epoch  
 **Thoughts** :
 
 **Link to Work:**  
@@ -322,9 +322,9 @@ http://mckinziebrandon.me/TensorflowNotebooks/2016/11/20/early-stopping.html
 
 ## Day 20 : August 14 , 2018
 
-**Today's Progress** : Tensorflow Early stopping callbacks and prin after epoch  
-**Thoughts** :
+**Today's Progress** : Deep Replay  
+**Thoughts** : DeepReplay is a nice Python package that allows you to replay the process of training your model and create nice visualizations out of it. The best thing is that it can be very easily integrated with Keras since we can just use the callback for this.
 
 **Link to Work:**  
-https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631
-https://github.com/dvgodoy/deepreplay
+* https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631
+* https://github.com/dvgodoy/deepreplay
