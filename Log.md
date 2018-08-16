@@ -366,9 +366,10 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 23 : August 17 , 2018
 
-**Today's Progress** :  
+**Today's Progress** :  Using fastText and Comet.ml to classify relationships in Knowledge Graphs
 **Thoughts** :  
 **Link to Work:**   
+* https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67
 
 
 ## Day 24 : August 18 , 2018
