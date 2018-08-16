@@ -433,6 +433,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Today's Progress** :  Image-to-image translation in the browser  
 **Thoughts** :  
 **Link to Work:**   
+* https://github.com/zaidalyafeai/zaidalyafeai.github.io/tree/master/pix2pix
 * https://www.linkedin.com/feed/update/urn:li:activity:6435094001153507328/
 
 
