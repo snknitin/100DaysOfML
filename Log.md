@@ -331,3 +331,56 @@ http://mckinziebrandon.me/TensorflowNotebooks/2016/11/20/early-stopping.html
 * https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c
 * https://towardsdatascience.com/hyper-parameters-in-action-introducing-deepreplay-31132a7b9631
 * https://github.com/dvgodoy/deepreplay
+
+
+## Day 22 : August 16 , 2018
+
+**Today's Progress** : Deep Learning Reproducibility 
+**Thoughts** : 
+**Link to Work:**  
+https://www.youtube.com/watch?v=Ys8ofBeR2kA
+
+
+## Day 23 : August 17 , 2018
+
+**Today's Progress** :  
+**Thoughts** :  
+**Link to Work:**   
+
+
+## Day 24 : August 18 , 2018
+
+**Today's Progress** :  
+**Thoughts** :  
+**Link to Work:**   
+
+
+## Day 25 : August 19 , 2018
+
+**Today's Progress** :  
+**Thoughts** :  
+**Link to Work:**   
+
+
+## Day 26 : August 20 , 2018
+
+**Today's Progress** :  
+**Thoughts** :  
+**Link to Work:**   
+
+
+## Day 27 : August 21 , 2018
+
+**Today's Progress** :  
+**Thoughts** :  
+**Link to Work:**   
+
+
+## Day 28 : August 22 , 2018
+
+**Today's Progress** :  
+**Thoughts** :  
+**Link to Work:**   
+
+
+
