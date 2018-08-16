@@ -308,7 +308,7 @@ Or even try :
 
 
 
-## Day 20 : August 14 , 2018
+## Day 21 : August 15 , 2018
 
 **Today's Progress** : Tensorflow Early stopping callbacks and print after epoch  
 **Thoughts** :
