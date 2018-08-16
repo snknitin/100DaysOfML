@@ -344,10 +344,53 @@ The process is simple enough, consisting of five steps:
 
 * Then, business as usual: build and train your model.
 
-* Next, load the collected data into Replay.
-* Finally, create a figure and attach the visualizations to it.
+      model.fit(X, y, epochs=150, batch_size=16, callbacks=[replaydata])
+     
+
+* Next, load the collected data into Replay. 
+Create an instance of Replay, providing the filename and the group name you chose in Step 1
+
+    from deepreplay.replay import Replay
+
+    replay = Replay(replay_filename='hyperparms_in_action.h5', group_name='part1')
+
+
+* Finally, create a figure and attach the visualizations from your Replay object to the figure.
+
+      import matplotlib.pyplot as plt
+      fig, ax = plt.subplots(1, 1, figsize=(5, 5))
+      fs = replay.build_feature_space(ax, layer_name='hidden')
+      
+  There are 5 visualizations available - Feature Space, Decision Boundary, Probability Histogram, Loss and Metric, Loss Histogram
+
 * Plot and/or animate it!
 
+
+      # Plot 60th epoch and save it as PNG
+      fs.plot(epoch=60).savefig('feature_space_epoch60.png', dpi=120)
+
+      # Animate and save it as MP4
+      fs.animate().save('feature_space_animation.mp4', dpi=120, fps=5)
+      
+   If you decide to go with multiple simultaneous visualizations, there are two helper methods that return composed plots and animations, respectively: compose_plots and compose_animations.
+   
+      fig = plt.figure(figsize=(12, 6))
+      ax_fs = plt.subplot2grid((2, 4), (0, 0), colspan=2, rowspan=2)
+      ax_ph_neg = plt.subplot2grid((2, 4), (0, 2))
+      ax_ph_pos = plt.subplot2grid((2, 4), (1, 2))
+      ax_lm = plt.subplot2grid((2, 4), (0, 3))
+      ax_lh = plt.subplot2grid((2, 4), (1, 3))
+
+      fs = replay.build_feature_space(ax_fs, layer_name='hidden')
+      ph = replay.build_probability_histogram(ax_ph_neg, ax_ph_pos)
+      lh = replay.build_loss_histogram(ax_lh)
+      lm = replay.build_loss_and_metric(ax_lm, 'acc')
+
+      sample_figure = compose_plots([fs, ph, lm, lh], 80)
+      sample_figure.savefig('part1.png', dpi=120, format='png')
+
+      sample_anim = compose_animations([fs, ph, lm, lh])
+      sample_anim.save(filename='part1.mp4', dpi=120, fps=5)
 
 
 **Link to Work:**  
@@ -357,19 +400,19 @@ The process is simple enough, consisting of five steps:
 
 
 ## Day 22 : August 16 , 2018
-
-**Today's Progress** : Deep Learning Reproducibility   
-**Thoughts** : 
-**Link to Work:**  
+ 
+**Today's Progress** : Deep Learning Reproducibility     
+**Thoughts** :   
+**Link to Work:**    
 https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 
 ## Day 23 : August 17 , 2018
 
 
-**Today's Progress** :  AutoML and AutoKeras   
+**Today's Progress** :  AutoML and AutoKeras    
 **Thoughts** :   
-**Link to Work:**   
+**Link to Work:**    
 * https://www.automl.org
 * https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
 
@@ -377,7 +420,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 ## Day 24 : August 18 , 2018
 
 **Today's Progress** :  Using fastText and Comet.ml to classify relationships in Knowledge Graphs   
-**Thoughts** :  
+**Thoughts** :   
 **Link to Work:**   
 * https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67
 
