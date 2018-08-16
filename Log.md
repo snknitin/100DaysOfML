@@ -430,9 +430,10 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 25 : August 19 , 2018
 
-**Today's Progress** :  
+**Today's Progress** :  Image-to-image translation in the browser  
 **Thoughts** :  
 **Link to Work:**   
+* https://www.linkedin.com/feed/update/urn:li:activity:6435094001153507328/
 
 
 ## Day 26 : August 20 , 2018
