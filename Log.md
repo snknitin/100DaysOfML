@@ -110,11 +110,13 @@ to be continued ....
 
 ## Day 7 : July 24 , 2018
 
-**Today's Progress** :
+**Today's Progress** : IPython Magic Commands
 
-**Thoughts** : 
+**Thoughts** : Reference notecook for some useful commands
 
-**Link to Work:** http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/language/IPythonMagic.ipynb
+**Link to Work:** 
+
+* http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/language/IPythonMagic.ipynb
 
 
 ## Day 8 : July 25 , 2018
