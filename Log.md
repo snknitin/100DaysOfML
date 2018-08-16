@@ -400,11 +400,15 @@ Create an instance of Replay, providing the filename and the group name you chos
 
 
 ## Day 22 : August 16 , 2018
- 
-**Today's Progress** : Deep Learning Reproducibility     
-**Thoughts** :   
+
+**Today's Progress** :  Introduction to Manual and Automated Feature Engineering  
+**Thoughts** :    
 **Link to Work:**    
-https://www.youtube.com/watch?v=Ys8ofBeR2kA
+* https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
+* https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering-p2
+* https://www.kaggle.com/willkoehrsen/clean-manual-feature-engineering
+* https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics
+
 
 
 ## Day 23 : August 17 , 2018
@@ -438,10 +442,12 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 
 ## Day 26 : August 20 , 2018
+ 
+**Today's Progress** : Deep Learning Reproducibility     
+**Thoughts** :   
+**Link to Work:**    
+https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
-**Today's Progress** :  
-**Thoughts** :  
-**Link to Work:**   
 
 
 ## Day 27 : August 21 , 2018
