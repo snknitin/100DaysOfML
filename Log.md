@@ -358,7 +358,7 @@ The process is simple enough, consisting of five steps:
 
 ## Day 22 : August 16 , 2018
 
-**Today's Progress** : Deep Learning Reproducibility 
+**Today's Progress** : Deep Learning Reproducibility   
 **Thoughts** : 
 **Link to Work:**  
 https://www.youtube.com/watch?v=Ys8ofBeR2kA
@@ -367,8 +367,8 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 ## Day 23 : August 17 , 2018
 
 
-**Today's Progress** :  AutoML and AutoKeras
-**Thoughts** :  
+**Today's Progress** :  AutoML and AutoKeras   
+**Thoughts** :   
 **Link to Work:**   
 * https://www.automl.org
 * https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
@@ -376,7 +376,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 24 : August 18 , 2018
 
-**Today's Progress** :  Using fastText and Comet.ml to classify relationships in Knowledge Graphs
+**Today's Progress** :  Using fastText and Comet.ml to classify relationships in Knowledge Graphs   
 **Thoughts** :  
 **Link to Work:**   
 * https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67
