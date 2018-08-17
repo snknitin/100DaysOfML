@@ -418,6 +418,7 @@ Create an instance of Replay, providing the filename and the group name you chos
 **Thoughts** :   
 **Link to Work:**    
 * https://www.automl.org
+* https://www.kdnuggets.com/2018/08/auto-keras-create-deep-learning-model-4-lines-code.html
 * https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
 
 
