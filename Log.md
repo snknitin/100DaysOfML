@@ -461,9 +461,10 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 28 : August 22 , 2018
 
-**Today's Progress** :  
+**Today's Progress** :  NLP with Python
 **Thoughts** :  
 **Link to Work:**   
+* www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training
 
 
 
