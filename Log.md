@@ -403,6 +403,11 @@ Create an instance of Replay, providing the filename and the group name you chos
 
 **Today's Progress** :  Introduction to Manual and Automated Feature Engineering  
 **Thoughts** :    
+To determine if a variable is useful, we can calculate the Pearson Correlation Coefficient (r-value) between this variable and the target. This measures the strength of a linear relationship between two variables and ranges from -1 (perfectly negatively linear) to +1 (perfectly positively linear). The r-value is not best measure of the "usefulness" of a new variable, but it can give a first approximation of whether a variable will be helpful to a machine learning model. The larger the r-value of a variable with respect to the target, the more a change in this variable is likely to affect the value of the target. Therefore, we look for the variables with the greatest absolute value r-value relative to the target.
+
+We can also visually inspect a relationship with the target using the Kernel Density Estimate (KDE) plot
+
+
 **Link to Work:**    
 * https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 * https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering-p2
