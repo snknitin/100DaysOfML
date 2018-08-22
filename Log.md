@@ -484,5 +484,13 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
 
 
+## Day 30 : August 24 , 2018
+
+**Today's Progress** :  Exploring the top 20 data science related libraries for python
+**Thoughts** :  
+**Link to Work:**   
+* https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html
+
+
 
 
