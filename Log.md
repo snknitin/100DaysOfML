@@ -492,5 +492,9 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html
 
 
+## Day 30 : August 24 , 2018
 
-
+**Today's Progress** :  Keras Deep Learning REST API
+**Thoughts** :  
+**Link to Work:**   
+* https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html?utm_content=buffer08c4c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
