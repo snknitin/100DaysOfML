@@ -476,5 +476,13 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Link to Work:**   
 * www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training
 
+## Day 29 : August 23 , 2018
+
+**Today's Progress** :  Flappy Bird in PyTorch RL
+**Thoughts** :  
+**Link to Work:**   
+* https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
+
+
 
 
