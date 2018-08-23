@@ -412,12 +412,14 @@ We can also visually inspect a relationship with the target using the Kernel Den
     corr = df[label_name].corr(df[var_name])
     sns.kdeplot(df.ix[df[label_name] == value, var_name], label = 'Label : '+ str(value))
 
-* Merging
+* Pandas tricks 
 
-      df1.merge(df2, on = 'SK_ID_CURR', how = 'left')
+      df1.merge(df2, on = 'SK_ID_CURR', how = 'left')   # Merging or joins
+      categorical = pd.get_dummies(df.select_dtypes('object'))  # Categorical columns
 
 
-**Link to Work:**    
+**Link to Work:** 
+* http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
 * https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 * https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering-p2
 * https://www.kaggle.com/willkoehrsen/clean-manual-feature-engineering
