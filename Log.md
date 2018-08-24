@@ -453,7 +453,16 @@ We can also visually inspect a relationship with the target using the Kernel Den
     * Text Data
     * Time series data
     * Sequence Input data
-* **RNN**
+* **RNN** - Recurrent Neural Networks, or RNNs, were designed to work with sequence prediction problems like 1-1, 1-many, many-1, many-many(seq2seq).The Long Short-Term Memory, or LSTM, network is perhaps the most successful RNN because it overcomes the problems of training a recurrent network and in turn has been used on a wide range of applications
+  * Use RNNs For:
+    * Speech data
+    * Text Data
+    * Generative models
+    * Classification prediction problems
+    * Regression prediction problems  
+  * DON'T Try RNNs On:
+    * Image Data
+    * Tabular data
 
 **Link to Work:**    
 * https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/
