@@ -444,7 +444,15 @@ We can also visually inspect a relationship with the target using the Kernel Den
     * Text Data
     * Time series data
     * Other types of data
-* **CNN**
+* **CNN** - Convolutional Neural Networks, or CNNs, were designed to map image data to an output variable. More generally, CNNs work well with data that has a spatial relationship.The CNN input is traditionally two-dimensional, a field or matrix, but can also be changed to be one-dimensional, allowing it to develop an internal representation of a one-dimensional sequence.Although not specifically developed for non-image data, CNNs achieve state-of-the-art results on problems such as document classification used in sentiment analysis and related problems
+  * Use CNNs For:
+    * Image data
+    * Classification prediction problems
+    * Regression prediction problems  
+  * Try CNNs On:
+    * Text Data
+    * Time series data
+    * Sequence Input data
 * **RNN**
 
 **Link to Work:**    
