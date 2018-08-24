@@ -399,7 +399,7 @@ Create an instance of Replay, providing the filename and the group name you chos
 * https://github.com/dvgodoy/deepreplay
 
 
-## Day 22 : August 16 , 2018
+## Day 22 - 30 : August 16 - 23 , 2018
 
 **Today's Progress** :  Introduction to Manual and Automated Feature Engineering  
 **Thoughts** :  
@@ -426,6 +426,15 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://www.kaggle.com/willkoehrsen/clean-manual-feature-engineering
 * https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics
 
+
+
+## Day 31 : August 24 , 2018
+
+
+**Today's Progress** :  When to Use MLP, CNN, and RNN Neural Networks
+**Thoughts** :   
+**Link to Work:**    
+* https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/
 
 
 ## Day 23 : August 17 , 2018
