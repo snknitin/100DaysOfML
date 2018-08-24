@@ -433,6 +433,12 @@ We can also visually inspect a relationship with the target using the Kernel Den
 
 **Today's Progress** :  When to Use MLP, CNN, and RNN Neural Networks
 **Thoughts** :   
+
+* **DNN** - They are very flexible and can be used generally to learn a mapping from inputs to outputs.
+   * 
+* **CNN**
+* **RNN**
+
 **Link to Work:**    
 * https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/
 
