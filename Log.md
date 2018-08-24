@@ -419,6 +419,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 
 
 **Link to Work:** 
+* https://www.featurelabs.com/blog/secret-to-data-science-success/
 * http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
 * https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 * https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering-p2
