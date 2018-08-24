@@ -431,11 +431,19 @@ We can also visually inspect a relationship with the target using the Kernel Den
 ## Day 31 : August 24 , 2018
 
 
-**Today's Progress** :  When to Use MLP, CNN, and RNN Neural Networks
+**Today's Progress** :  When to Use MLP, CNN, and RNN Neural Networks  
 **Thoughts** :   
 
-* **DNN** - They are very flexible and can be used generally to learn a mapping from inputs to outputs.
-   * 
+* **DNN** - They are very flexible and can be used generally to learn a mapping from inputs to outputs. For example, the pixels of an image can be reduced down to one long row of data and fed into a MLP. The words of a document can also be reduced to one long row of data and fed to a MLP. Even the lag observations for a time series prediction problem can be reduced to a long row of data and fed to a MLP.  
+  * Use MLPs For:
+    * Tabular datasets
+    * Classification prediction problems
+    * Regression prediction problems  
+  * Try MLPs On:
+    * Image data
+    * Text Data
+    * Time series data
+    * Other types of data
 * **CNN**
 * **RNN**
 
