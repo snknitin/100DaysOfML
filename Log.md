@@ -399,7 +399,7 @@ Create an instance of Replay, providing the filename and the group name you chos
 * https://github.com/dvgodoy/deepreplay
 
 
-## Day 22 - 30 : August 16 - 23 , 2018
+## Day 22 - 35 : August 16 - 27 , 2018
 
 **Today's Progress** :  Introduction to Manual and Automated Feature Engineering  
 **Thoughts** :  
@@ -425,6 +425,12 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering-p2
 * https://www.kaggle.com/willkoehrsen/clean-manual-feature-engineering
 * https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics
+* https://stackoverflow.com/questions/46498455/categorical-features-correlation
+* https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/
+* https://www.kaggle.com/danavg/dummy-variables-vs-label-encoding-approach
+* https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/
+* https://stackoverflow.com/questions/20892799/using-pandas-calculate-cramérs-coefficient-matrix
+* https://stackoverflow.com/questions/46498455/categorical-features-correlation
 
 
 
