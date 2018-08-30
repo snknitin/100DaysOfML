@@ -399,7 +399,7 @@ Create an instance of Replay, providing the filename and the group name you chos
 * https://github.com/dvgodoy/deepreplay
 
 
-## Day 22 - 35 : August 16 - 27 , 2018
+## Day 22 - 36 : August 16 - 28 , 2018
 
 **Today's Progress** :  Introduction to Manual and Automated Feature Engineering  
 **Thoughts** :  
@@ -434,7 +434,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 
 
 
-## Day 31 : August 24 , 2018
+## Day 37 : August 29 , 2018
 
 
 **Today's Progress** :  When to Use MLP, CNN, and RNN Neural Networks  
@@ -442,7 +442,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 
 * **DNN** - They are very flexible and can be used generally to learn a mapping from inputs to outputs. For example, the pixels of an image can be reduced down to one long row of data and fed into a MLP. The words of a document can also be reduced to one long row of data and fed to a MLP. Even the lag observations for a time series prediction problem can be reduced to a long row of data and fed to a MLP.  
   * Use MLPs For:
-    * Tabular datasets
+    * Tabular dataset
     * Classification prediction problems
     * Regression prediction problems  
   * Try MLPs On:
@@ -474,7 +474,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/
 
 
-## Day 23 : August 17 , 2018
+## Day 38 : August 30 , 2018
 
 
 **Today's Progress** :  AutoML and AutoKeras    
@@ -485,7 +485,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
 
 
-## Day 24 : August 18 , 2018
+## Day 39 : August 31 , 2018
 
 **Today's Progress** :  Using fastText and Comet.ml to classify relationships in Knowledge Graphs   
 **Thoughts** :   
@@ -493,7 +493,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67
 
 
-## Day 24 : August 18 , 2018
+## Day 40 : September 1 , 2018
 
 **Today's Progress** :  How to make animated gifs from Matplotlib plots easily  
 **Thoughts** :   Using Facebook data to plot my friend network
