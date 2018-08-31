@@ -399,7 +399,7 @@ Create an instance of Replay, providing the filename and the group name you chos
 * https://github.com/dvgodoy/deepreplay
 
 
-## Day 22 - 36 : August 16 - 28 , 2018
+## Day 22 - 36 : August 16 - 29 , 2018
 
 **Today's Progress** :  Introduction to Manual and Automated Feature Engineering  
 **Thoughts** :  
@@ -431,10 +431,10 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/
 * https://stackoverflow.com/questions/20892799/using-pandas-calculate-cramérs-coefficient-matrix
 * https://stackoverflow.com/questions/46498455/categorical-features-correlation
+* https://medium.com/ml-byte/rare-feature-engineering-techniques-for-machine-learning-competitions-de36c7bb418f
 
 
-
-## Day 37 : August 29 , 2018
+## Day 37 : August 30 , 2018
 
 
 **Today's Progress** :  When to Use MLP, CNN, and RNN Neural Networks  
@@ -474,7 +474,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/
 
 
-## Day 38 : August 30 , 2018
+## Day 38 : August 31 , 2018
 
 
 **Today's Progress** :  AutoML and AutoKeras    
@@ -485,7 +485,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
 
 
-## Day 39 : August 31 , 2018
+## Day 39 : September 1 , 2018
 
 **Today's Progress** :  Using fastText and Comet.ml to classify relationships in Knowledge Graphs   
 **Thoughts** :   
@@ -493,7 +493,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67
 
 
-## Day 40 : September 1 , 2018
+## Day 40 : September 2 , 2018
 
 **Today's Progress** :  How to make animated gifs from Matplotlib plots easily  
 **Thoughts** :   Using Facebook data to plot my friend network
