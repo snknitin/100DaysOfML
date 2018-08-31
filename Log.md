@@ -432,6 +432,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://stackoverflow.com/questions/20892799/using-pandas-calculate-cramérs-coefficient-matrix
 * https://stackoverflow.com/questions/46498455/categorical-features-correlation
 * https://medium.com/ml-byte/rare-feature-engineering-techniques-for-machine-learning-competitions-de36c7bb418f
+* https://realpython.com/python-pandas-tricks/
 
 
 ## Day 37 : August 30 , 2018
