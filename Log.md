@@ -494,6 +494,16 @@ We can also visually inspect a relationship with the target using the Kernel Den
 * https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67
 
 
+
+## Day 39 : September 1 , 2018
+
+**Today's Progress** : Multi-Modal Few-Shot Learning: A Benchmark    
+**Thoughts** :   
+**Link to Work:**  
+* https://openreview.net/pdf?id=HJB8ntJPG
+
+
+
 ## Day 40 : September 2 , 2018
 
 **Today's Progress** :  How to make animated gifs from Matplotlib plots easily  
