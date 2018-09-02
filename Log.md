@@ -502,7 +502,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 https://ndres.me
 
 
-## Day 25 : September 3  , 2018
+## Day 41 : September 3  , 2018
 
 **Today's Progress** :  Image-to-image translation in the browser  
 **Thoughts** :  
@@ -511,7 +511,7 @@ https://ndres.me
 * https://www.linkedin.com/feed/update/urn:li:activity:6435094001153507328/
 
 
-## Day 41 : September 4  , 2018
+## Day 42 : September 4  , 2018
  
 **Today's Progress** : Deep Learning Reproducibility     
 **Thoughts** :   
@@ -519,14 +519,14 @@ https://ndres.me
 https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 
-## Day 42 : September 5 , 2018
+## Day 43 : September 5 , 2018
  
 **Today's Progress** : Montreal AI course     
 **Thoughts** :   
 **Link to Work:**    
 * https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science
 
-## Day 43 : September 6  , 2018
+## Day 44 : September 6  , 2018
 
 **Today's Progress** :  Altair : Declarative statistical visualization library for Python   
 **Thoughts** :  
@@ -534,7 +534,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://github.com/altair-viz/altair
 
 
-## Day 28 : August 22 , 2018
+## Day 45 : September 7 , 2018
 
 **Today's Progress** :  NLP with Python
 **Thoughts** :  
