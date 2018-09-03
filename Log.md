@@ -503,7 +503,7 @@ We can also visually inspect a relationship with the target using the Kernel Den
 *  Multi-modal during training (i.e. images and texts) and single-modal in testing time (i.e. images), with the associated task to utilize multi-modal data in base classes (with many samples), to learn explicit visual classifiers for novel classes (with few samples)
 
 ACTIVE LEARNING
-=========================
+
 
 Typical heuristics for active learning:
 	- Start with a pool of unlabeled data
