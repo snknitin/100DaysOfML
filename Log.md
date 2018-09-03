@@ -541,6 +541,7 @@ Ideal case: each query cuts the version space in two. Then perhaps we need just 
 **Link to Work:**  
 * https://openreview.net/pdf?id=HJB8ntJPG
 * http://hunch.net/~active_learning/active_learning_icml09.pdf
+* https://www.datacamp.com/community/tutorials/active-learning
 
 
 
