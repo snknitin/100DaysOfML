@@ -495,12 +495,53 @@ We can also visually inspect a relationship with the target using the Kernel Den
 
 
 
-## Day 39 : September 1 , 2018
+## Day 39 : September 2 , 2018
 
-**Today's Progress** : Multi-Modal Few-Shot Learning: A Benchmark    
+**Today's Progress** : Multi-Modal Few-Shot Learning: A Benchmark , ACTIVE Learning   
 **Thoughts** :   
+*  Deep learning algorithms generally require large amounts of data for model training and a multi-modal approach facilitates bridging the information gap by means of meaningful joint embeddings.
+*  Multi-modal during training (i.e. images and texts) and single-modal in testing time (i.e. images), with the associated task to utilize multi-modal data in base classes (with many samples), to learn explicit visual classifiers for novel classes (with few samples)
+
+ACTIVE LEARNING
+=========================
+
+Typical heuristics for active learning:
+	- Start with a pool of unlabeled data
+	- Pick a few points at random and get their labels
+	- Repeat
+		- Fit a classifier to the labels seen so far
+		- Query the unlabeled point that is closest to the boundary
+		(or most uncertain, or most likely to decrease overall
+		uncertainty,...)
+
+Biased sampling: the labeled points are not representative of the underlying distribution!
+
+There are two distinct narratives for explaining how adaptive querying can help.  
+Case I: Exploiting (cluster) structure in data  
+
+Challenges:  
+In general, the cluster structure  
+(i) is not so clearly defined and  
+(ii) exists at many levels of granularity. And the clusters themselves might not be pure in their labels. How to exploit whatever structure happens to exist?
+
+
+- Build neighborhood graph
+- Query some random points
+- Propagate labels
+- Make query and go to (3)
+
+- Use hierarchical clustering
+
+
+Case II: Efficient search through hypothesis space  
+
+Ideal case: each query cuts the version space in two. Then perhaps we need just log |H| labels to get a perfect hypothesis!
+
+
 **Link to Work:**  
 * https://openreview.net/pdf?id=HJB8ntJPG
+* http://hunch.net/~active_learning/active_learning_icml09.pdf
+
 
 
 
