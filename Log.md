@@ -546,7 +546,15 @@ Ideal case: each query cuts the version space in two. Then perhaps we need just 
 
 
 
-## Day 40 : September 2 , 2018
+## Day 40 : September 3 , 2018
+
+**Today's Progress** :  Clustering Analysis  
+**Thoughts** :   
+**Link to Work:**   
+* https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+* https://github.com/snknitin/Cluster-Analysis
+
+## Day 40 : September 4 , 2018
 
 **Today's Progress** :  How to make animated gifs from Matplotlib plots easily  
 **Thoughts** :   Using Facebook data to plot my friend network
