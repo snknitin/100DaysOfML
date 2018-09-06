@@ -546,7 +546,7 @@ Ideal case: each query cuts the version space in two. Then perhaps we need just 
 
 
 
-## Day 40 : September 3 , 2018
+## Day 40-42 : September 3 -4 , 2018
 
 **Today's Progress** :  Clustering Analysis  
 **Thoughts** :   
@@ -554,7 +554,7 @@ Ideal case: each query cuts the version space in two. Then perhaps we need just 
 * https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
 * https://github.com/snknitin/Cluster-Analysis
 
-## Day 40 : September 4 , 2018
+## Day 43 : September 5 , 2018
 
 **Today's Progress** :  How to make animated gifs from Matplotlib plots easily  
 **Thoughts** :   Using Facebook data to plot my friend network
@@ -562,7 +562,7 @@ Ideal case: each query cuts the version space in two. Then perhaps we need just 
 https://ndres.me
 
 
-## Day 41 : September 3  , 2018
+## Day 44 : September 6  , 2018
 
 **Today's Progress** :  Image-to-image translation in the browser  
 **Thoughts** :  
@@ -571,7 +571,7 @@ https://ndres.me
 * https://www.linkedin.com/feed/update/urn:li:activity:6435094001153507328/
 
 
-## Day 42 : September 4  , 2018
+## Day 45 : September 7  , 2018
  
 **Today's Progress** : Deep Learning Reproducibility     
 **Thoughts** :   
@@ -579,7 +579,7 @@ https://ndres.me
 https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 
-## Day 43 : September 5 , 2018
+## Day 46 : September 8 , 2018
  
 **Today's Progress** : Montreal AI course     
 **Thoughts** :   
