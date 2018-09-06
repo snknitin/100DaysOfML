@@ -586,7 +586,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Link to Work:**    
 * https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science
 
-## Day 44 : September 6  , 2018
+## Day 47 : September 9  , 2018
 
 **Today's Progress** :  Altair : Declarative statistical visualization library for Python   
 **Thoughts** :  
@@ -594,14 +594,14 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://github.com/altair-viz/altair
 
 
-## Day 45 : September 7 , 2018
+## Day 48 : September 10 , 2018
 
 **Today's Progress** :  NLP with Python
 **Thoughts** :  
 **Link to Work:**   
 * www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training
 
-## Day 46 : September 8 , 2018
+## Day 49 : September 11 , 2018
 
 **Today's Progress** :  Flappy Bird in PyTorch RL
 **Thoughts** :  
@@ -609,7 +609,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
 
 
-## Day 47 :September 9 , 2018
+## Day 50 :September 12 , 2018
 
 **Today's Progress** :  Exploring the top 20 data science related libraries for python
 **Thoughts** :  
@@ -617,7 +617,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html
 
 
-## Day 48 : September 10 , 2018
+## Day 51 : September 13 , 2018
 
 **Today's Progress** :  Keras Deep Learning REST API
 **Thoughts** :  
