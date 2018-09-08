@@ -554,6 +554,20 @@ Ideal case: each query cuts the version space in two. Then perhaps we need just 
 * https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
 * https://github.com/snknitin/Cluster-Analysis
 
+
+## Day 43 : September 5 , 2018
+
+**Today's Progress** :  Json2CSV  
+**Thoughts** :   When you have a nested json with dynamic arrays and that only makes up one row of the csv. You won't know how many columns there are and you need to create a csv dataset by flattening the json and creating new columns for the inner nested attributes like outer_inner1 . 
+**Link to Work:**   
+* www.dataquest.io/blog/python-json-tutorial/
+* https://www.kaggle.com/jboysen/quick-tutorial-flatten-nested-json-in-pandas/data
+* https://stackoverflow.com/questions/1871524/how-can-i-convert-json-to-csv
+* https://stackoverflow.com/questions/40588852/pandas-read-nested-json
+* https://medium.com/@gis10kwo/converting-nested-json-data-to-csv-using-python-pandas-dc6eddc69175
+* https://www.npmjs.com/package/json2csv
+
+
 ## Day 43 : September 5 , 2018
 
 **Today's Progress** :  How to make animated gifs from Matplotlib plots easily  
