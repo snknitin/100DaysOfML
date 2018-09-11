@@ -608,6 +608,14 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://github.com/altair-viz/altair
 
 
+
+## Day 49 : September 12  , 2018
+
+**Today's Progress** :  Tensorflow data visualization   
+**Thoughts** :  
+**Link to Work:** 
+https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0
+
 ## Day 48 : September 10 , 2018
 
 **Today's Progress** :  NLP with Python
