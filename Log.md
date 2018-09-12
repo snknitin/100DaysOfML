@@ -614,7 +614,8 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Today's Progress** :  Tensorflow data visualization   
 **Thoughts** :  
 **Link to Work:** 
-https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0
+* https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0
+* https://medium.com/tensorflow/multi-gpu-training-with-estimators-tf-keras-and-tf-data-ba584c3134db
 
 ## Day 48 : September 10 , 2018
 
