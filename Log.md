@@ -617,6 +617,17 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0
 * https://medium.com/tensorflow/multi-gpu-training-with-estimators-tf-keras-and-tf-data-ba584c3134db
 
+
+
+
+## Day 49 : September 12  , 2018
+
+**Today's Progress** :  he What-If Tool: Code-Free Probing of Machine Learning Models     
+**Thoughts** :  
+**Link to Work:** 
+* https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html?m=1
+* https://pair-code.github.io/what-if-tool/
+
 ## Day 48 : September 10 , 2018
 
 **Today's Progress** :  NLP with Python
