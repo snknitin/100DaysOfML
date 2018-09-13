@@ -609,7 +609,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 
 
-## Day 49 : September 12  , 2018
+## Day 48 : September 10  , 2018
 
 **Today's Progress** :  Tensorflow data visualization   
 **Thoughts** :  
@@ -620,7 +620,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 
 
-## Day 49 : September 12  , 2018
+## Day 49 : September 11  , 2018
 
 **Today's Progress** :  he What-If Tool: Code-Free Probing of Machine Learning Models     
 **Thoughts** :  
@@ -628,14 +628,14 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html?m=1
 * https://pair-code.github.io/what-if-tool/
 
-## Day 48 : September 10 , 2018
+## Day 50 : September 12 , 2018
 
 **Today's Progress** :  NLP with Python
 **Thoughts** :  
 **Link to Work:**   
 * www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training
 
-## Day 49 : September 11 , 2018
+## Day 51 : September 13 , 2018
 
 **Today's Progress** :  Flappy Bird in PyTorch RL
 **Thoughts** :  
@@ -643,7 +643,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
 
 
-## Day 50 :September 12 , 2018
+## Day 52 :September 14 , 2018
 
 **Today's Progress** :  Exploring the top 20 data science related libraries for python
 **Thoughts** :  
@@ -651,7 +651,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html
 
 
-## Day 51 : September 13 , 2018
+## Day 53 : September 15 , 2018
 
 **Today's Progress** :  Keras Deep Learning REST API
 **Thoughts** :  
