@@ -622,7 +622,7 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 49 : September 11  , 2018
 
-**Today's Progress** :  he What-If Tool: Code-Free Probing of Machine Learning Models     
+**Today's Progress** :  The What-If Tool: Code-Free Probing of Machine Learning Models     
 **Thoughts** :  
 **Link to Work:** 
 * https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html?m=1
@@ -630,14 +630,14 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 50 : September 12 , 2018
 
-**Today's Progress** :  NLP with Python
+**Today's Progress** :  NLP with Python   
 **Thoughts** :  
 **Link to Work:**   
 * www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training
 
 ## Day 51 : September 13 , 2018
 
-**Today's Progress** :  Flappy Bird in PyTorch RL
+**Today's Progress** :  Flappy Bird in PyTorch RL   
 **Thoughts** :  
 **Link to Work:**   
 * https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
@@ -645,15 +645,15 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 52 :September 14 , 2018
 
-**Today's Progress** :  Exploring the top 20 data science related libraries for python
-**Thoughts** :  
+**Today's Progress** :  Exploring the top 20 data science related libraries for python   
+**Thoughts** :    
 **Link to Work:**   
 * https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html
 
 
 ## Day 53 : September 15 , 2018
 
-**Today's Progress** :  Keras Deep Learning REST API
-**Thoughts** :  
+**Today's Progress** :  Keras Deep Learning REST API   
+**Thoughts** :    
 **Link to Work:**   
 * https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html?utm_content=buffer08c4c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
