@@ -662,9 +662,13 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 54 : September 16 , 2018
 
-**Today's Progress** :  Stanford Cheat sheets for ML/DL/RL
-**Thoughts** :    
+**Today's Progress** :  Stanford Cheat sheets for ML/DL/RL  
+**Thoughts** :     
 **Link to Work:**   
+* https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning
+* https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+* https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning
+* https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
 
 
 ## Day 55 : September 17 , 2018
