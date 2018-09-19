@@ -657,3 +657,27 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Thoughts** :    
 **Link to Work:**   
 * https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html?utm_content=buffer08c4c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+
+
+
+## Day 54 : September 16 , 2018
+
+**Today's Progress** :  Stanford Cheat sheets for ML/DL/RL
+**Thoughts** :    
+**Link to Work:**   
+
+
+## Day 55 : September 17 , 2018
+
+**Today's Progress** :    
+**Thoughts** :    
+**Link to Work:**   
+
+
+## Day 56 : September 18 , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+
