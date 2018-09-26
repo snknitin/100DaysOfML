@@ -559,6 +559,32 @@ Ideal case: each query cuts the version space in two. Then perhaps we need just 
 
 **Today's Progress** :  Json2CSV  
 **Thoughts** :   When you have a nested json with dynamic arrays and that only makes up one row of the csv. You won't know how many columns there are and you need to create a csv dataset by flattening the json and creating new columns for the inner nested attributes like outer_inner1 . 
+
+```
+import collections
+def flattenjson( b, delim,name=""):
+    val = collections.defaultdict()
+    for i in b.keys():
+        if isinstance( b[i], dict):
+            get = flattenjson( b[i], delim ,name)
+            for j in get.keys():
+                val[ name+ i+ delim + j ] = get[j]
+        elif isinstance( b[i], list):
+            for idx,item in enumerate(b[i]):
+                addon = str(idx) if len(b[i])>1 else ""
+                get = flattenjson( b[i][idx], delim,name = addon)
+                for j in get.keys():
+                    val[i+delim+name + delim + j] = get[j]
+        else:
+            val[name+delim+i] = b[i]
+
+    return val
+
+```
+
+
+
+
 **Link to Work:**   
 * www.dataquest.io/blog/python-json-tutorial/
 * https://www.kaggle.com/jboysen/quick-tutorial-flatten-nested-json-in-pandas/data
