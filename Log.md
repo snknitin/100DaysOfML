@@ -703,7 +703,9 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Thoughts** :    
 * Kmeans
 * DBscan
-*
+* Mean-shift
+* EM Gaussian mixture models
+* Hierarchical agglomerative clustering
 **Link to Work:**   
 * https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
 
