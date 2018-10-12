@@ -718,7 +718,12 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Thoughts** :    
 **Link to Work:**   
 * https://www.kaggle.com/dhanyajothimani/basic-visualization-and-clustering-in-python
-* 
+* https://github.com/ageron/handson-ml/blob/master/08_dimensionality_reduction.ipynb
+* https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+* https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+* https://python-graph-gallery.com/372-3d-pca-result/
+* https://www.dummies.com/programming/big-data/data-science/how-to-visualize-the-clusters-in-a-k-means-unsupervised-learning-model/
+
 
 ## Day 57 : September 19 , 2018
 
