@@ -699,9 +699,14 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 55 : September 17 , 2018
 
-**Today's Progress** :    
+**Today's Progress** :    Clustering algorithms you must know
 **Thoughts** :    
+* Kmeans
+* DBscan
+*
 **Link to Work:**   
+* https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+
 
 
 ## Day 56 : September 18 , 2018
