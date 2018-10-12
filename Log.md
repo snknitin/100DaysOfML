@@ -705,7 +705,8 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 * DBscan
 * Mean-shift
 * EM Gaussian mixture models
-* Hierarchical agglomerative clustering
+* Hierarchical agglomerative clustering  
+
 **Link to Work:**   
 * https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
 
@@ -713,9 +714,11 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 
 ## Day 56 : September 18 , 2018
 
-**Today's Progress** :  
+**Today's Progress** :  Plotting PCA and clustering  
 **Thoughts** :    
 **Link to Work:**   
+* https://www.kaggle.com/dhanyajothimani/basic-visualization-and-clustering-in-python
+* 
 
 ## Day 57 : September 19 , 2018
 
