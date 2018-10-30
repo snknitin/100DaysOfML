@@ -756,3 +756,38 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Today's Progress** :  
 **Thoughts** :    
 **Link to Work:**   
+
+
+## Day 62 : September 24 , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+
+## Day 63 : September 25, 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+## Day 64 : September 26 , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+## Day 65 : September 27 , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+
+## Day 66 : September 28 , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+
