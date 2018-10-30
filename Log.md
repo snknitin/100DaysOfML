@@ -791,3 +791,35 @@ https://www.youtube.com/watch?v=Ys8ofBeR2kA
 **Link to Work:**   
 
 
+
+## Day 67 : September 39 , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+
+## Day 68 : September 30 , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+## Day 69 :  , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+## Day 70 :  , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
+
+
+## Day 71 :  , 2018
+
+**Today's Progress** :  
+**Thoughts** :    
+**Link to Work:**   
