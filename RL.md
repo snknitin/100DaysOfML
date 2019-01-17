@@ -2,6 +2,7 @@
 
 ## Day 0 : Jan 17, 2019 
 
-**Today's Progress** :  Malthusian Reinforment Learning 
+**Today's Progress** :  Malthusian Reinforment Learning   
 **Thoughts** :   
-**Link to Work:**   
+**Link to Work:**  
+* [Paper with highlights](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Malthusian%20Reinforcement%20learning.pdf)
