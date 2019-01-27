@@ -40,8 +40,22 @@
 
 ## Day 6 : Jan 26, 2019 
 
-**Today's Progress** :  
+**Today's Progress** : A pricing model for clearing end-of-season retail inventory 
 **Thoughts** :   
 **Link to Work:**  
+* [Paper with highlights]()
+
+## Day 7 : Jan 27, 2019 
+
+**Today's Progress** : Universal Transformers 
+**Thoughts** :   
+**Link to Work:**  
+* [Paper with highlights]()
 
 
+## Day 8 : Jan 28, 2019 
+
+**Today's Progress** : Universal Transformers 
+**Thoughts** :   
+**Link to Work:**  
+* [Paper with highlights]()
