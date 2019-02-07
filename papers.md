@@ -8,44 +8,47 @@
 * [Paper with highlights](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Malthusian%20Reinforcement%20learning.pdf)
 
 
-## Day 1 : Jan 21, 2019 
+## Day 1 : Feb 7th, 2019 
+
+**Today's Progress** :  Playing Atari with Deep Reinforcement Learning
+**Thoughts** :  
+* [Paper Summary](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Summaries/Paper%201.md)
+**Link to Work:**  
+* [Paper with highlights](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Papers%20from%20list/[1]%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning.pdf)
+
+
+## Day 2 : Feb 7th, 2019 
 
 **Today's Progress** :  
 **Thoughts** :   
 **Link to Work:**  
 
-## Day 2 : Jan 22, 2019 
+## Day 3 : Feb 8th, 2019 
 
 **Today's Progress** :  
 **Thoughts** :   
 **Link to Work:**  
 
-## Day 3 : Jan 23, 2019 
+## Day 4 : Feb 9th, 2019 
 
 **Today's Progress** :  
 **Thoughts** :   
 **Link to Work:**  
 
-## Day 4 : Jan 24, 2019 
+## Day 5 : Feb 10 th, 2019 
 
 **Today's Progress** :  
 **Thoughts** :   
 **Link to Work:**  
 
-## Day 5 : Jan 25, 2019 
-
-**Today's Progress** :  
-**Thoughts** :   
-**Link to Work:**  
-
-## Day 6 : Jan 26, 2019 
+## Day 6 : Feb 7th, 2019 
 
 **Today's Progress** : A pricing model for clearing end-of-season retail inventory 
 **Thoughts** :   
 **Link to Work:**  
 * [Paper with highlights]()
 
-## Day 7 : Jan 27, 2019 
+## Day 7 : Feb 7th, 2019 
 
 **Today's Progress** : Universal Transformers 
 **Thoughts** :   
