@@ -16,14 +16,19 @@
 * [Paper Summary](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Summaries/Paper%201.md)  
 
 **Link to Work:**  
-* [Paper with highlights](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Papers%20from%20list/[1]%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning.pdf)
+* [Paper with highlights](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Papers%20from%20list/[2]%20Deep%20Recurrent%20Q-Learning%20for%20Partially%20Observable%20MDPs.pdf)
 
 
 ## Day 2 : Feb 7th, 2019 
 
-**Today's Progress** :  
-**Thoughts** :   
+**Today's Progress** : Deep Recurrent Q-Learning for Partially Observable MDPs  
+
+**Thoughts** :  
+* [Paper Summary](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Summaries/Paper%202.md)  
+
 **Link to Work:**  
+* [Paper with highlights](https://github.com/snknitin/100DaysOfML/blob/master/RL%20papers/Papers%20from%20list/[1]%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning.pdf)
+
 
 ## Day 3 : Feb 8th, 2019 
 
